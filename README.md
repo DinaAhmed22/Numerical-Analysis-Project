@@ -7,3 +7,5 @@
 6)Gauss Elmination
 7)Lu decomposition 
 8)Cramer's Rule
+Programming Language:Python
+GUI Library :Tkinter
